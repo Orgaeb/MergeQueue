@@ -1,1 +1,3 @@
 # MergeQueue
+
+password = "Azerty"
